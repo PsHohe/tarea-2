@@ -69,9 +69,9 @@ public class MenuPrincipal {
      * Muestra el menú principal.
      */
     private void mostrarMenuPrincipal() {
-        System.out.println("\n╔═════════════════════════════════════╗");
+        System.out.println("\n╔════════════════════════════════════╗");
         System.out.println("║  SISTEMA BIBLIOTECA UNAB           ║");
-        System.out.println("╠═════════════════════════════════════╣");
+        System.out.println("╠════════════════════════════════════╣");
         System.out.println("║  1. Gestión de Usuarios            ║");
         System.out.println("║  2. Gestión de Libros              ║");
         System.out.println("║  3. Realizar Préstamo              ║");
@@ -79,7 +79,7 @@ public class MenuPrincipal {
         System.out.println("║  5. Listar Usuarios                ║");
         System.out.println("║  6. Listar Libros                  ║");
         System.out.println("║  0. Salir                          ║");
-        System.out.println("╚═════════════════════════════════════╝");
+        System.out.println("╚════════════════════════════════════╝");
         System.out.print("Seleccione una opción: ");
     }
 
