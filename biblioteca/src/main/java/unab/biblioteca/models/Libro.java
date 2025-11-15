@@ -3,7 +3,7 @@ package unab.biblioteca.models;
 /**
  * Clase que representa un libro en el sistema de biblioteca.
  *
- * @author Sistema Biblioteca UNAB
+ * @author @author Alan, Francisco, Sandrino y Sebastián
  */
 public class Libro {
 

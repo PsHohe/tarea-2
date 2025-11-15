@@ -6,7 +6,7 @@ import unab.biblioteca.utils.ValidadorRUN;
  * Clase abstracta que representa un usuario del sistema de biblioteca.
  * Puede ser un Docente o un Estudiante.
  *
- * @author Sistema Biblioteca UNAB
+ * @author @author Alan, Francisco, Sandrino y Sebastián
  */
 public abstract class Usuario {
 

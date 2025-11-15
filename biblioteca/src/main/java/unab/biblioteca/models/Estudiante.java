@@ -4,7 +4,7 @@ package unab.biblioteca.models;
  * Clase que representa un usuario de tipo Estudiante.
  * Los estudiantes tienen período máximo de préstamo de 10 días.
  *
- * @author Sistema Biblioteca UNAB
+ * @author @author Alan, Francisco, Sandrino y Sebastián
  */
 public class Estudiante extends Usuario {
 

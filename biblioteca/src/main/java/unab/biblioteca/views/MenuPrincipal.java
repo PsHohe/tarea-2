@@ -9,7 +9,7 @@ import java.util.Scanner;
  * Clase que maneja la interfaz de consola del sistema de biblioteca.
  * Presenta menús y captura inputs del usuario.
  *
- * @author Sistema Biblioteca UNAB
+ * @author @author Alan, Francisco, Sandrino y Sebastián
  */
 public class MenuPrincipal {
 

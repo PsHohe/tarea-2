@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * Clase que representa un usuario de tipo Docente.
  * Los docentes tienen período máximo de préstamo de 20 días.
  *
- * @author Sistema Biblioteca UNAB
+ * @author @author Alan, Francisco, Sandrino y Sebastián
  */
 public class Docente extends Usuario {
 

@@ -8,7 +8,7 @@ import java.time.temporal.ChronoUnit;
  * Clase que representa un préstamo de libro en el sistema de biblioteca.
  * Maneja fechas automáticamente y calcula multas por retraso.
  *
- * @author Sistema Biblioteca UNAB
+ * @author @author Alan, Francisco, Sandrino y Sebastián
  */
 public class Prestamo {
 

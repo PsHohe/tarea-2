@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * Punto de entrada de la aplicación.
  * Incluye datos de demostración y ejecución del menú principal.
  *
- * @author Sistema Biblioteca UNAB
+ * @author @author Alan, Francisco, Sandrino y Sebastián
  */
 public class Biblioteca {
 

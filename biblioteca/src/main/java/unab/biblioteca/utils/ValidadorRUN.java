@@ -4,7 +4,7 @@ package unab.biblioteca.utils;
  * Clase utilitaria para validar RUN chileno.
  * Implementa validación de formato y dígito verificador mediante algoritmo módulo 11.
  *
- * @author Sistema Biblioteca UNAB
+ * @author @author Alan, Francisco, Sandrino y Sebastián
  */
 public class ValidadorRUN {
 

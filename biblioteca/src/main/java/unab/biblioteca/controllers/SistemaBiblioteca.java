@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * Controlador principal del sistema de biblioteca.
  * Gestiona usuarios, libros, préstamos y devoluciones.
  *
- * @author Sistema Biblioteca UNAB
+ * @author Alan, Francisco, Sandrino y Sebastián
  */
 public class SistemaBiblioteca {
 
